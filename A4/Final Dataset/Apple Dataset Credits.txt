@@ -1,0 +1,6 @@
+# Fruits Detection > Fruits-Apple-v1
+https://universe.roboflow.com/ron-xmba6/fruits-detection-hrhn3
+
+Provided by a Roboflow user
+License: CC BY 4.0
+
